@@ -1,9 +1,9 @@
 <?php declare(strict_types=1);
 
-namespace Koldy\Mail\Adapter;
+namespace KoldyPHPMailer;
 
 use Closure;
-use Koldy\Mail\Exception;
+use Koldy\Mail\Adapter\AbstractMailAdapter;
 use PHPMailer\PHPMailer\Exception as PHPMailerException;
 use PHPMailer\PHPMailer\PHPMailer as NativePHPMailer;
 use Throwable;
