@@ -3,7 +3,7 @@
 Use this package to integrate PHPMailer with your project built on top of Koldy Framework. Minimum PHP version is PHP `8.1`.
 
 ```shell
-composer require koldy/koldy-phpmailer
+composer require koldy/phpmailer
 ```
 
 ## Licence
