@@ -18,7 +18,7 @@
 	],
 	"require": {
 		"php": ">=8.1",
-		"koldy/framework": "v3.x-dev",
+		"koldy/framework": "^3.0.0",
 		"phpmailer/phpmailer": "v6.6.0"
 	},
 	"autoload": {
